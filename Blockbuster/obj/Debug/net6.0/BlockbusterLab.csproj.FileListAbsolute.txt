@@ -1,0 +1,15 @@
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.AssemblyInfo.cs
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\bin\Debug\net6.0\BlockbusterLab.exe
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\bin\Debug\net6.0\BlockbusterLab.deps.json
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\bin\Debug\net6.0\BlockbusterLab.runtimeconfig.json
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\bin\Debug\net6.0\BlockbusterLab.dll
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\bin\Debug\net6.0\BlockbusterLab.pdb
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.dll
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\refint\BlockbusterLab.dll
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.pdb
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\BlockbusterLab.genruntimeconfig.cache
+C:\Users\xmini\Documents\BootcampLabs\Blockbuster\Blockbuster\obj\Debug\net6.0\ref\BlockbusterLab.dll
